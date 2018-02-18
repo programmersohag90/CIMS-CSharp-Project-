@@ -1,7 +1,7 @@
 Customer information management system (CIMS)
 ...............................................
 
-This is a information management system software. I had made it by using CSharp and SQL language.
+This is an information management system software. I had made it by using CSharp and SQL language.
 Here you can store, modify, delete, search information.
 And also you can export the report easily.
 
