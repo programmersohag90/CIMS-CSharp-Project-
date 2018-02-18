@@ -22,6 +22,6 @@ Bangladesh University Of Business & Technology (BUBT)
 
 
 Supervisor,
-Samsuddin Ahmed,
-Asistant Professior
+Samsuddin Ahmed
+Assistant Professor
 Bangladesh University Of Business & Technology (BUBT)
