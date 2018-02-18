@@ -15,7 +15,7 @@ Password :  'test'
 
 
 
-Created by,
+Developed by,
 Sohag Ahammad (Jibril)
 Dept of CSE
 Bangladesh University Of Business & Technology (BUBT)
